@@ -133,19 +133,6 @@ function App() {
 - pacman -Syu # Update the system
           `,
         },
-//         {
-//           id: 'shell-scripting',
-//           title: 'Shell Scripting Basics',
-//           text: `# Basic Shell Scripting Commands
-// - #!/bin/bash - Start a Bash script
-// - echo "Hello, World!" - Print text
-// - VAR="value" - Assign a variable
-// - if [ "$VAR" == "value" ]; then <command>; fi - Conditional statement
-// - for i in {1..5}; do echo $i; done - For loop
-// - while [ condition ]; do <command>; done - While loop
-// - function myFunc() { echo "Function called"; } - Define a function
-//           `,
-//         },
         {
           id: 'networking-commands',
           title: 'Networking Commands',
